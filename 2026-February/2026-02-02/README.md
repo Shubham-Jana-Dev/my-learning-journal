@@ -10,7 +10,7 @@ Today's session was dedicated to the mathematical proof of $O(\log n)$ and visua
 * **Complexity Mapping:** Comparing $O(n)$ vs $O(\log n)$ growth rates.
 
 ### 🔗 Related Code/Notes
-* [View Algorithm Repository]([INSERT_LINK_HERE](https://github.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/Day12/tree/main))
+* [View Algorithm Repository](https://github.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/tree/main/Day12)
 
 ---
 **Reflections:** The gap between 100 items and 1 billion items is massive, but for binary search, it's only a difference of 23 comparisons (7 vs 30). Math is powerful.
