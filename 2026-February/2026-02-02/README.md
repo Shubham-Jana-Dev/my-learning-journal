@@ -31,3 +31,39 @@ The gap between 100 items and 1 billion items is massive, but for binary search,
 ### 🔗 Asset Links
 - **Logic Diagram:** ![Binary Search Flow](https://raw.githubusercontent.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/main/Day12/assets/binary-logic.png)
 - **Day 12 Technical Notes:** [View Documentation](https://github.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/tree/main/Day12)
+---
+---
+
+## 🕒 Session 3: 09:00 AM – 03:45 PM
+**Focus:** University Lectures
+
+---
+
+## 🕒 Session 4: 05:00 PM – 06:00 PM
+**Focus:** Hash Maps Concept Exploration
+* Watched introductory material on Hash Map theory and collision handling.
+
+---
+
+## 🕒 Session 5: 06:30 PM – 09:00 PM
+**Focus:** Transitioning to C++ for DSA
+* **Objective:** Evaluating the switch from C to C++ for the DSA journey to leverage the Standard Template Library (STL).
+* **Strategy:** Decided to keep the DAA (Design and Analysis of Algorithms) journey in C for low-level memory mastery while using C++ for advanced data structures.
+
+---
+
+## 🕒 Session 6: 10:00 PM – 11:00 PM
+**Focus:** C++ Basic Syntax & I/O Operations
+
+### 🛠️ Tasks Completed
+1. **Basic I/O:** Explored `cin`, `cout`, and `endl` for standard input and output streams.
+2. **String Handling:** - Practiced standard string input.
+   - Implemented `getline(cin, fullName)` to handle spaces in user input.
+3. **Math Implementation:** Used the `cmath` library to calculate the area of a circle.
+   - [View Basic C++ Code](https://github.com/Shubham-Jana-Dev/Learning-by-myself/blob/main/Basic.cpp)
+
+### 💡 Reflection
+Switching to C++ feels like a natural progression. The `iostream` and `string` libraries significantly simplify input/output compared to `scanf` and `printf` in C. Using `getline` was a key takeaway for handling full-name strings without losing data after a whitespace.
+
+### 🔗 Asset Links
+- **Working Area:** [Basic.cpp](https://github.com/Shubham-Jana-Dev/Learning-by-myself/blob/main/Basic.cpp)
