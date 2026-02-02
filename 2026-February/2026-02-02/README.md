@@ -9,8 +9,12 @@ Today's session was dedicated to the mathematical proof of $O(\log n)$ and visua
 * **Math Derivation:** Proving $k = \log_2 n$ via algebraic steps.
 * **Complexity Mapping:** Comparing $O(n)$ vs $O(\log n)$ growth rates.
 
+### 📊 Visual Progress
+**Growth Comparison:**
+![Binary Search vs Linear Search](https://raw.githubusercontent.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/main/Day12/assets/Binary_search_graph.png)
+
 ### 🔗 Related Code/Notes
-* [View Algorithm Repository](https://github.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/tree/main/Day12)
+* [Day 12: Binary Search Notes](https://github.com/Shubham-Jana-Dev/Learning-DAA-by-Myself/tree/main/Day12)
 
 ---
 **Reflections:** The gap between 100 items and 1 billion items is massive, but for binary search, it's only a difference of 23 comparisons (7 vs 30). Math is powerful.
