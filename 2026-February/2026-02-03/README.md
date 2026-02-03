@@ -36,7 +36,7 @@
 
 ### 🚀 Progress Report
 - Started a collaborative project with a peer to build a robust **Library/Book Billing Platform**.
-- **Key Focus:** Building the logic for a Point of Sale (POS) system using C++.
+- **Key Focus:** Building the logic for a Point of Sale (POS) system using tailwind CSS, and vanilla Java script.
 - **Collaboration:** Managing version control and feature integration via GitHub.
 
 **Project Repository:** [Book-billing-system](https://github.com/Shubham-Jana-Dev/Book-billing-system)
