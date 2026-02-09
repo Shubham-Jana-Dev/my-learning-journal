@@ -1,0 +1,44 @@
+# 📔 Learning Journal | Feb 9, 2026
+
+## 🕒 Session 1: 04:00 AM – 07:00 AM
+**Focus:** Python Persistence & Library Infrastructure
+
+### 🛠️ Tasks Completed
+1. **File Handling Deep Dive:**
+   - Mastered the `open()` function across multiple modes: `'r'`, `'w'`, `'a'`, and `'r+'`.
+   - Implemented **Context Managers** using the `with` statement to handle file streams safely and prevent memory leaks.
+2. **Library & Module Architecture:**
+   - Explored the `import` system, including aliasing (`import as`) and specific member imports (`from ... import`).
+   - Studied how the Python interpreter locates modules via `sys.path`.
+
+
+
+**Working Area:** [PBSSD-Python-Learning](https://github.com/Shubham-Jana-Dev/PBSSD-Python-Learning)
+
+---
+
+## 🕒 Session 2: 11:00 AM – 01:00 PM
+**Focus:** PBSSD Professional Development
+
+### 📝 Topics Covered
+* **Soft Skills Training:** Focused on technical storytelling—translating complex algorithmic logic into value-driven explanations for stakeholders.
+* **Project Merging:** Discussed synchronization strategies for collaborative GitHub repositories.
+
+---
+
+## 🕒 Session 3: Evening Block
+**Focus:** University Tech Fest Project | Initial Phase
+
+### 🚀 Progress Report
+- **Project Initiation:** Started the architectural design for the upcoming University Tech Fest.
+- **System Logic:** Integrating persistent storage concepts (File I/O) learned this morning to ensure data remains consistent between sessions.
+- **Resource Planning:** Mapping out the necessary Python libraries required for the project's core functionality.
+
+---
+
+### 💡 Reflection
+File handling is the missing piece for making my applications "real." Without persistence, the **Book Billing System** is just a calculator; with it, it becomes a database. Today's deep dive into `with` blocks showed me how to write cleaner, more professional code. Balancing this with Soft Skills training is crucial because the best code in the world won't win a Tech Fest if I can't communicate its impact.
+
+### 🔗 Quick Links
+- **Technical Practice:** [PBSSD-Python-Learning Repo](https://github.com/Shubham-Jana-Dev/PBSSD-Python-Learning)
+- **Tech Fest Project:** [In-Progress Repository]
