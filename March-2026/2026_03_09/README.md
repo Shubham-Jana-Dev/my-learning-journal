@@ -39,4 +39,3 @@ Today was a lesson in "Control." In Git, I learned to control the history of my 
 
 ### 🔗 Quick Links
 - **Benchmarking Lab:** [Python-Performance-Check](https://github.com/Shubham-Jana-Dev/PBSSD-Python-Learning)
-- **Git Journey:** [Web-tech-Database-Journey](https://github.com/Shubham-Jana-Dev/PBSSD-Web-tech-Database-Journey)
