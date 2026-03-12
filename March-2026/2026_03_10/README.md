@@ -29,7 +29,7 @@ Implemented a professional feature-branch workflow for the indexing logic benchm
 **Focus:** University Academics | AI & FLAT
 
 ### 📝 Internal Exams
-* **AI Exam:** Evaluated automated decision-making logic and search algorithms.
+* **AI** Evaluated automated decision-making logic and search algorithms.
 * **FLAT Exam:** Deep-dived into Finite Automata, Regular Expressions, and the mathematical foundations of computation.
 * **Outcome:** Successfully navigated back-to-back technical exams while maintaining the morning's coding momentum.
 
@@ -48,4 +48,3 @@ Today was a lesson in 'Cost.' Every technical choice has a price. Using a Hash T
 ### 🔗 Quick Links
 - **Complexity Lab:** [NoRest-Python-Complexity](https://github.com/Shubham-Jana-Dev/NoRest)
 - **FLAT Notes:** [Formal-Language-Theory-Notes](https://github.com/Shubham-Jana-Dev/SVU-Academic-Vault)
--
