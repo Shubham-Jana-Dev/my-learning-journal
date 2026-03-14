@@ -14,4 +14,4 @@
 ## 🚩 Lessons Learned
 1. **Never delete code to stop a process.** The system is separate from the source.
 2. **Git is a Safety Net.** Restore point via `git checkout` is better than a total loss.
-3.
+
